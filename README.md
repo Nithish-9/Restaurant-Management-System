@@ -55,7 +55,7 @@ Open the browser and type localhost:9000
 If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
-[![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Restaurant-Management-System/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Nithish-9/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/Nithish-9/Restaurant-Management-System/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
